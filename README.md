@@ -21,8 +21,8 @@ I’m Timur, a ###.
 ## 📌 Pinned Repositories
 
 <br>
-[![SimpleFood](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://github.com/timteaman/simplefood)
-[![Museum](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://github.com/timteaman/museum_lending)
+<a href='https://github.com/timteaman/simplefood'>SimpleFood</a>()
+(https://github.com/timteaman/museum_lending)
 
 <br>
 
