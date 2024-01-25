@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-I’m Timur, a ###.
+I’m Tymur, a junior markup developer.
 
 ## 💼 Skills
 
