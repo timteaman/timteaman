@@ -41,4 +41,3 @@ I’m Tymur, a junior markup developer.
 </a>
 
 <br>
-<br>
