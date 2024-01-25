@@ -36,13 +36,3 @@ I’m Tymur, a junior markup developer.
 </a>
 
 <br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/timteaman">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=timteaman&show_icons=true&line_height=27&hide=stars,issues,prs,contribs&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Timur's GitHub Stats" />
-</a>
-
-<br>
