@@ -1,5 +1,4 @@
 [![Timur's GitHub Banner](./assets/LogoOne.png)]()
-Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/timur-marchenko/)
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/timliketea)
 
@@ -9,20 +8,21 @@ I’m Timur, a ###.
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/SQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Jmeter-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/GoogleDevTools-informational?style=flat&logo=Google&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Html/Css-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Jira/Remdine/GLPI-informational?style=flat&logo=Jira&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/-javascript-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/javascript-black?style=social&logo=javascript&color=%2388CCF1)
+![](https://img.shields.io/badge/react-black?style=social&logo=react&color=%2388CCF1)
+![](https://img.shields.io/badge/html5-black?style=social&logo=html5&color=%2388CCF1)
+![](https://img.shields.io/badge/css3-black?style=social&logo=css3&color=%2388CCF1)
+![](https://img.shields.io/badge/sass-black?style=social&logo=sass&color=%2388CCF1)
+![](https://img.shields.io/badge/git-black?style=social&logo=git&color=%2388CCF1)
+![](https://img.shields.io/badge/gulp-black?style=social&logo=gulp&color=%2388CCF1)
+![](https://img.shields.io/badge/webpack-black?style=social&logo=webpack&color=%2388CCF1)
+![](https://img.shields.io/badge/bem-black?style=social&logo=bem&color=%2388CCF1)
 
 ## 📌 Pinned Repositories
 
 <br>
-
-
+[![SimpleFood](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://github.com/timteaman/simplefood)
+[![Museum](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://github.com/timteaman/museum_lending)
 
 <br>
 
