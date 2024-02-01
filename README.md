@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-I’m Tymur, a junior markup developer.
+I’m TImur, a junior markup developer.
 
 ## 💼 Skills
 
